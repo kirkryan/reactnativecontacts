@@ -1,0 +1,13 @@
+# Introduction
+
+A working sample project using react-native-contacts. Tested on Android 11 and iOS 14. It retrieves all of your contacts (after successfully requesting/checking permission on Android) and then outputs a list of your contacts on screen.
+
+## Installation
+
+Simply clone this repo, run `npx pod install` if using iOS and then build on your device or simulator
+
+## Additional Comments
+This is a barebones app without styling, to illustrate how to get the code working and returning contacts from the address book.
+
+### Want to improve the app?
+Feel free to submit a PR!
